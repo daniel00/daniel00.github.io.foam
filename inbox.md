@@ -1,6 +1,3 @@
----
-_layouts/home.html
----
 # Inbox
 
 - Here you can write disorganised notes to be categorised later
